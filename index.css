@@ -1,0 +1,189 @@
+.tos {
+	background-color: #848b1b;
+	border-style: solid;
+	border-color: black;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+	background-image: url("tos.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size:  50px ;
+}
+
+.tos-film {
+	background-color: #848b1b;
+	border-style: solid;
+	border-color: silver;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+	background-image: url("tos.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size:  50px ;
+}
+
+.tas {
+	background-color: goldenrod;
+	border-style: solid;
+	border-color: black;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+	background-image: url("tas.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size:  50px ;
+
+}
+
+.tng {
+	background-color: maroon;
+	border-style: solid;
+	border-color: black;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+	background-image: url("tng.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size:  50px ;
+
+}
+
+.tng-film {
+	background-color: maroon;
+	border-style: solid;
+	border-color: silver;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+	background-image: url("tng.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size:  50px ;
+
+}
+
+.ds9 {
+	background-color: gray;
+	border-style: solid;
+	border-color: black;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+	background-image: url("ds9.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size:  50px ;
+
+}
+
+.voy {
+	background-color: lawngreen;
+	border-style: solid;
+	border-color: black;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+	background-image: url("voy.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size:  50px ;
+
+}
+
+.ent {
+	background-color: navy;
+	border-style: solid;
+	border-color: black;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+	background-image: url("ent.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size:  50px ;
+
+}
+
+.dis {
+	background-color: silver;
+	border-style: solid;
+	border-color: black;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+
+}
+
+.pic {
+	background-color: lightblue;
+	border-style: solid;
+	border-color: black;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+
+}
+
+.low {
+	background-color: palevioletred;
+	border-style: solid;
+	border-color: black;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+
+}
+
+.short {
+	background-color: goldenrod;
+	border-style: solid;
+	border-color: black;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+
+}
+
+.kel {
+	background-color: #848b1b;
+	border-style: solid;
+	border-color: purple;
+	display: grid;
+	grid: auto / 15% 25% 5% 5% 7% 9%;
+	background-image: url("kel.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size:  50px ;
+
+}
+
+.episode {
+
+
+}
+
+.series {
+	width: fit-content;
+	padding: 15px 15px 15px 80px;
+}
+
+.title {
+	width: fit-content;
+	padding: 15px;
+}
+
+.stardate {	
+	width: fit-content;
+	padding: 15px;
+}
+ .stardate-sort {	
+	width: fit-content;
+	padding: 15px;
+}
+
+.airdate {	
+	width: fit-content;
+	padding: 15px;
+}
+
+.airdate-sort {	
+	width: fit-content;
+	padding: 15px;
+}
+
+div{
+	font-size: 18px;
+	font-family: fantasy;
+}
